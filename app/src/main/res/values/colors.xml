@@ -7,4 +7,5 @@
     <color name="background_visitante">#FF0011</color>
     <color name="input_txt_color">#FA0011</color>
     <color name="input_hint_txt_color">#CF0011</color>
+    <color name="button_text_color">#FFF</color>
 </resources>

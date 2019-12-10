@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Ping Pong</string>
+    <string name="app_name" translatable="false">Ping Pong</string>
+    <string name="developed_by">Marcos Moura</string>
+    <string name="label_subtitle">Start Game</string>
+    <string name="label_sub_subtitle">Fill bellow the name players</string>
+    <string name="hint_player1">player 1</string>
+    <string name="hint_player2">player 2</string>
+    <string name="button_begin">BEGIN MATCH!</string>
+    <string name="label_title">PingPongX</string>
 </resources>
